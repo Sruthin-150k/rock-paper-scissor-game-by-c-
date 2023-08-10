@@ -1,2 +1,2 @@
-# rock-paper-scissor-game-by-c-
+# rock-paper-scissor-game-by-cpp
 rock paper and scissor game code using c++
