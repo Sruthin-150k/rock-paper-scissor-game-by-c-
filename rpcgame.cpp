@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
    cout<<"Welcome to rock,paper and scissor game"<<endl;
-   cout<<"note:-while playing with computer you need to refer \n 'rock=1''\n paper='2'' \n scissor='3 "<<endl;
+   cout<<"note:-while playing with computer you need to refer \n rock='1'\n paper='2' \n scissor='3' \n note:- if give other numbers instead of given numbers then your code gonna terminated"<<endl;
   	srand(time(NULL));
    int comp;
    int ref,flag=1;
